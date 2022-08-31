@@ -8,3 +8,8 @@ list of libraries used: os, numpy, pandas, matplotlib, tensorflow, keras, cv2(pi
 
 positive images: https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
 negative images: https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset
+
+positive images where further edited to folder name 'CoronaPositive' with metadata.csv and folder 'images'
+negative images where further edited to folder name 'CoronaNegative' with Chest_xray_Corona_Metadata.csv and folder 'images'
+
+data.npy was too big for commit and was commited as zip file, only needed to extract it as 'data.npy'
