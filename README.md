@@ -13,3 +13,5 @@ positive images where further edited to folder name 'CoronaPositive' with metada
 negative images where further edited to folder name 'CoronaNegative' with Chest_xray_Corona_Metadata.csv and folder 'images'
 
 data.npy was too big for commit and was commited as zip file, only needed to extract it as 'data.npy'
+
+Models were uploaded as zip files, so that they can be easier to commit 
